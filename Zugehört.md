@@ -2,6 +2,11 @@
 tags:
   - Wireshark
 ---
+# Zugehört
+<h2>Aufgabe:</h2>
+<img width="341" alt="image" src="https://github.com/Pegasus01123/fernuni_hacken/assets/72656695/e444a4c5-ea4b-4e78-92ff-64a45d4fd600">
+
+<h2>Meine Lösung:</h2>
 
 Als Aufgabe gab es heute den Mitschnitt einiger Datenpakete. Die Endung .pcapng legt nahe das Dokument in Wireshark zu öffnen. 
 
