@@ -3,6 +3,11 @@ tags:
   - Ghidra
   - Bufferoverflow
 ---
+# Benutzerregistrierung
+<h2>Aufgabe:</h2>
+<img width="356" alt="image" src="https://github.com/Pegasus01123/fernuni_hacken/assets/72656695/5593ce62-4b16-48d6-8284-ea2dd307e07f">
+
+<h2>Meine Lösung:</h2>
 
 Eine Benutzerregistrierung die über netcat zu erreichen ist.
 Nach eingabe eines Namens und eines Passworts bekommt man diese Meldung:

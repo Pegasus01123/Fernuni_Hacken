@@ -4,6 +4,11 @@ tags:
   - PDF
   - PasswortSchutz
 ---
+# Nochmal zugehört
+<h2>Aufgabe:</h2>
+<img width="351" alt="image" src="https://github.com/Pegasus01123/fernuni_hacken/assets/72656695/734f14c7-45f4-4240-8a05-6f822321dce3">
+
+<h2>Meine Lösung:</h2>
 
 Eine weitere .pcapng Datei. 
 Das folgen der verschiedenen TCP Streams brachte diese drei  Unterhaltungen.
