@@ -5,6 +5,11 @@ tags:
   - CaesarCipher
   - PasswortSchutz
 ---
+# Zipped
+<h2>Aufgabe:</h2>
+<img width="351" alt="image" src="https://github.com/Pegasus01123/fernuni_hacken/assets/72656695/b11d1629-16fe-4578-b71d-4b6f19b28edb">
+
+<h2>Meine Lösung:</h2>
 
 Ein Passwort geschütztes Zip File.
 
